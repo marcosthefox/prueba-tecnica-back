@@ -1,0 +1,12 @@
+"""Mensajes de error y éxito para el servidor de API REST"""
+
+INVALID_DATA = "Datos incompletos"
+INVALID_MIMETYPE = "Tipo MIME inválido"
+INVALID_EMAIL = "Formato de correo electrónico inválido"
+INVALID_AGE = "La edad no puede ser negativa"
+ALREADY_CREATED = "Correo electrónico ya registrado"
+INTERNAL_ERROR = "Error interno"
+USER_CREATED = "Usuario creado exitosamente"
+USER_NOT_FOUND = "Usuario no encontrado"
+USER_UPDATED = "Usuario actualizado exitosamente"
+USER_DELETED = "Usuario eliminado exitosamente"
